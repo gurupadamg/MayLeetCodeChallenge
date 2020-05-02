@@ -1,6 +1,6 @@
 package com.mlcc.week1;
 
-public class FirstBadVersion {
+public class Day1_FirstBadVersion {
 
 	/*
 	 * You are a product manager and currently leading a team to develop a new
