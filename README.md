@@ -6,4 +6,4 @@ List Of Problems and Solotions
 3. Jewels and Stones (05/02/2020)
 4. Happy Number (05/02/2020)
 5. Ransom Note (05/03/2020)
-6. Maximum Sub Array
+6. Maximum Sub Array(05/03/2020)
