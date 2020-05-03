@@ -1,6 +1,5 @@
-# MayLeetCodeChallenge
-May 2020 Leet Code Challenge Problems and Solutions
-List Of Problems and Solotions
+#MayLeetCodeChallenge #30DayCodeChallenge #AprilLeetCodeChallenge
+List Of Questions:-
 1. First Bad Version (05/01/2020)
 2. Single Number (05/01/2020)
 3. Jewels and Stones (05/02/2020)
