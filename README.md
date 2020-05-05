@@ -7,4 +7,6 @@ List Of Questions:-
 5. Ransom Note (05/03/2020)
 6. Maximum Sub Array(05/03/2020)
 7. Number Compliment (05/04/2020) 
-8. First Unique Character in a String (05/05/2020) 
+8. Move Zeroes (05/04/2020)
+9. Best Time to Buy and Sell Stock II (05/05/2020)
+10. First Unique Character in a String (05/05/2020) 
