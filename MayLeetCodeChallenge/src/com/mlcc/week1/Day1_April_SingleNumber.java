@@ -53,6 +53,11 @@ public class Day1_April_SingleNumber {
 		int ans = 0;
 		for (int num : nums) {
 			ans = ans ^ num;
+			
+			/* As we using XOR Operation. Because of Problem Statement.
+			every element appears twice except for one. 
+			so xor operation on same element will be come zero. (a ^ a = 0)
+			and (0 ^ x = x)  */
 		}
 		return ans;
 	}

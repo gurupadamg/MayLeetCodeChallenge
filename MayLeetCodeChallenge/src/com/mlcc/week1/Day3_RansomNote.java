@@ -29,7 +29,8 @@ public class Day3_RansomNote {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Test Case1: " + canConstruct("a", "b"));
+
+System.out.println("Test Case1: " + canConstruct("a", "b"));
 		System.out.println("Test Case2: " + canConstruct("aa", "ab"));
 		System.out.println("Test Case3: " + canConstruct("aa", "baa"));
 	}
