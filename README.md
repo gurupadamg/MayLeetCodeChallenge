@@ -10,3 +10,7 @@ List Of Questions:-
 8. Move Zeroes (05/04/2020)
 9. Best Time to Buy and Sell Stock II (05/05/2020)
 10. First Unique Character in a String (05/05/2020) 
+11. Group Anagrams (05/06/2020)
+12. Majority Element (05/06/2020)
+13. Counting Elements (05/07/2020)
+14. Cousins in Binary Tree (05/07/2020)
