@@ -16,3 +16,10 @@ List Of Questions:-
 12. Majority Element (05/06/2020)
 13. Counting Elements (05/07/2020)
 14. Cousins in Binary Tree (05/07/2020)
+
+
+#May Week 2 Problems:-
+1. Check If It Is a Straight Line (05/08/2020)
+2. Valid Perfect Square (05/09/2020)
+3. Find the Town Judge (05/10/2020)
+4. Flood Fill (05/11/2020)
