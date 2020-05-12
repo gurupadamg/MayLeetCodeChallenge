@@ -23,3 +23,4 @@ List Of Questions:-
 2. Valid Perfect Square (05/09/2020)
 3. Find the Town Judge (05/10/2020)
 4. Flood Fill (05/11/2020)
+5. Single Element in a Sorted Array (05/12/2020)
