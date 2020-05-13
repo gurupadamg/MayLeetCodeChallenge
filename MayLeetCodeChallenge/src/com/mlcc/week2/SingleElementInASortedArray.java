@@ -19,6 +19,8 @@ public class SingleElementInASortedArray {
 	 * Note: Your solution should run in O(log n) time and O(1) space.
 	 */
 
+	// Your solution should run in O(log n) time and O(1) space.
+	// Using Binary Search Approach, As Input Array is Sorted.
 	public static int singleNonDuplicate(int[] nums) {
 		int si = 0;
 		int ei = nums.length - 1;
@@ -55,6 +57,31 @@ public class SingleElementInASortedArray {
 
 	}
 	
+	
+	/*
+	 * Approach 2: Bit Manipulation Concept
+	 * 
+	 * i. If we take XOR of zero and some bit, it will return that bit a ^ 0 = a
+	 * 
+	 * ii. If we take XOR of two same bits, it will return 0 a ^ a = 0
+	 * 
+	 * iii. a^b^a = a^a^b = (a^a)^b = 0^b = b
+	 * 
+	 * iv. So we can XOR all bits together to find the unique number.
+	 */
+	// T.C = O(N)
+	public static int singleNonDuplicate1(int[] nums) {
+		int ans = 0;
+		for (int num : nums) {
+			ans = ans ^ num;
+			
+			/* As we using XOR Operation. Because of Problem Statement.
+			every element appears twice except for one. 
+			so xor operation on same element will be come zero. (a ^ a = 0)
+			and (0 ^ x = x)  */
+		}
+		return ans;
+	}
 	public static void main(String[] args) {
 		System.out.println("Test Case 1: " + singleNonDuplicate(new int[] {1,2,2}));
 		System.out.println("Test Case 2: " + singleNonDuplicate(new int[] {2,2,3,3,4,5,5}));
