@@ -25,3 +25,5 @@ List Of Questions:-
 4. Flood Fill (05/11/2020)
 5. Single Element in a Sorted Array (05/12/2020)
 6. Remove K Digits (05/13/2020)
+7. Implement Trie (Prefix Tree) (05/14/2020)
+
