@@ -27,6 +27,11 @@ List Of Questions:-
 2. Odd Even Linked List (05/16/2020)
 3. Find All Anagrams in a String (05/17/2020)
 4. Permutation in String (05/18/2020)
+5. Online Stock Span (05/19/2020)
+6. Kth Smallest Element in a BST (05/20/2020)
+7. Count Square Submatrices with All Ones (05/21/2020)
+
+
 
 
 #April Week 1 Problems:-
